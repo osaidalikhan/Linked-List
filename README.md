@@ -1,2 +1,2 @@
 # Linked-List
-Contains Linked List in C++.
+It contains Linked List in C++.
