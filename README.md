@@ -1,2 +1,2 @@
 # Linked-List
-It contains different tasks of Linked List in C++.
+It contains different tasks of Linked List.
